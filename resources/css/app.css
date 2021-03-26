@@ -1,0 +1,16 @@
+.banner{
+    background-size:cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height:100vh;
+    background-attachment: fixed;
+    z-index:-10;
+    margin-top:0;
+   
+    
+}
+.carousel-caption h1{
+    margin-top:250px !important;
+    color:#000 !important;
+
+}
